@@ -1,6 +1,6 @@
 {
   "name": "cloud-sql-mysql-observability",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Manage and monitor database performance and health for Cloud SQL for MySQL databases.",
   "mcpServers": {
     "Cloud SQL for MySQL Observability": {
