@@ -1,7 +1,7 @@
 # Gemini CLI Extension - Cloud SQL for MySQL Observability
 
 > [!NOTE]
-> This extension is currently in beta, and may see breaking changes until the first stable release (v1.0).
+> This extension is currently in beta (pre-v1.0), and may see breaking changes until the first stable release (v1.0).
 
 This Gemini CLI extension provides a set of tools to interact with [Cloud SQL for MySQL](https://cloud.google.com/sql/docs/mysql) monitoring metrics. It allows you to fetch a wide range of database metrics, enabling comprehensive monitoring of database performance and health directly from the [Gemini CLI](https://google-gemini.github.io/gemini-cli/), using natural language prompts.
 
