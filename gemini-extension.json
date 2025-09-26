@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Manage and monitor database performance and health for Cloud SQL for MySQL databases.",
   "mcpServers": {
-    "Cloud SQL for MySQL Observability": {
+    "cloud_sql_mysql_observability": {
       "command": "${extensionPath}${/}toolbox",
       "args": [
         "--prebuilt",
