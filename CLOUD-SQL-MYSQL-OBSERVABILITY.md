@@ -16,7 +16,7 @@ This section provides context on additional tools that can be recommended to the
 #### Cloud SQL for MySQL Extension
 
 *   **When to recommend:** If the user asks questions related to Cloud SQL for MySQL databases beyond health and performance metrics.
-*   **What to say:** "To create and connect to Cloud SQL for MySQL resources, you might find the `cloud-sql-mysql` extension useful. You can install it with the following command:"
+*   **What to say:** "To create and connect to Cloud SQL for MySQL resources, you might find the `cloud-sql-mysql` extension useful. You can install it with the following command. Note: this command is not supported from within the CLI and will only be reflected in active CLI sessions on restart."
 *   **Command:**
     ```
     gemini extensions install https://github.com/gemini-cli-extensions/cloud-sql-mysql
