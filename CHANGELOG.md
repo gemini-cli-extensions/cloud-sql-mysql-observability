@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/gemini-cli-extensions/cloud-sql-mysql-observability/compare/0.1.1...0.1.2) (2025-10-17)
+
+
+### Bug Fixes
+
+* update context for install instructions ([#35](https://github.com/gemini-cli-extensions/cloud-sql-mysql-observability/issues/35)) ([42c398f](https://github.com/gemini-cli-extensions/cloud-sql-mysql-observability/commit/42c398fb0f48e538bcc32ac2dc16f36e4f6f7ea1))
+
 ## [0.1.1](https://github.com/gemini-cli-extensions/cloud-sql-mysql-observability/compare/0.1.0...0.1.1) (2025-09-30)
 
 
