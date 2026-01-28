@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/gemini-cli-extensions/cloud-sql-mysql-observability/compare/0.1.2...0.1.3) (2026-01-28)
+
+
+### Features
+
+* **deps:** update dependency googleapis/genai-toolbox to v0.25.0 ([#59](https://github.com/gemini-cli-extensions/cloud-sql-mysql-observability/issues/59)) ([b137d3a](https://github.com/gemini-cli-extensions/cloud-sql-mysql-observability/commit/b137d3af6c390d0f9ed82b6ce2b336cb5e73de13))
+
 ## [0.1.2](https://github.com/gemini-cli-extensions/cloud-sql-mysql-observability/compare/0.1.1...0.1.2) (2025-10-17)
 
 
